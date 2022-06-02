@@ -1,4 +1,4 @@
-# Indian-Summer-Weather-Analysis---EDA-and-Prediction
+# Indian-Summer-Weather-Analysis-EDA-and-Prediction
 Analysis of Indian Summer Weather using EDA and Prediction
 
 The dataset extrated from the kaggle website
